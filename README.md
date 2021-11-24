@@ -2,7 +2,7 @@
 
 It is a web application to check weather of any city you want.
 
-### Open [this](https://salty-bastion-16864.herokuapp.com/) to view it in the browser. 
+### Open [this](https://weather-app-api1.herokuapp.com/) to view it in the browser. 
 
 The app is made using Node js, Express framework and EJS.
 
