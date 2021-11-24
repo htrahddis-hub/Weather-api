@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+
+html,
+body {
+    height: 100%;
+    background-image: url(../img/bg.jpg);
+}
+
+* {
+    padding: 0px;
+    margin: 0px
+}
+
+body {
+    background-color: #7878cc;
+    display: grid;
+    place-items: center
+}
+
+.card {
+    background-color: #b1caee;
+    border-radius: 50px;
+    opacity: 75%;
+    color: #000000;
+    font-family: 'Marcellus', serif
+}
+
+#heading {
+    font-size: 55px;
+    color: #2b304d
+}
+
+.temp {
+    place-items: center
+}
+
+.temp-details>p>span,
+.grey {
+    color: #262d3d;
+    font-size: 20px
+}
+
+.fa {
+    color: #a5a5b1
+}
+
+*:focus {
+    outline:none
+}
+
+.custom{
+    position: relative; 
+}
+
+footer{
+    font-size: large;
+    font-weight: bold;
+}
